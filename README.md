@@ -4,7 +4,7 @@ Use paramiko library to communicate with ftp server
 
 ## How to creat ftp server 
 
-A simple implentation to run a ftp server 
+### A simple implementation to run a ftp server
 
 * https://github.com/esmaeelE/SysAdmin/blob/main/topics/ftp.md
 
