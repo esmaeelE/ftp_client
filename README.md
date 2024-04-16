@@ -1,9 +1,8 @@
-# Python clinet to send receive ftp server
+# Python client to communicate (send, receive) ftp server.
 
 Use paramiko library to communicate with ftp server
 
 ## How to creat ftp server 
-
 ### A simple implementation to run a ftp server
 
 * https://github.com/esmaeelE/SysAdmin/blob/main/topics/ftp.md
